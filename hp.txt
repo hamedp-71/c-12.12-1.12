@@ -108,8 +108,8 @@ proxies:
     type: wireguard
     ip: 172.16.0.2/32
     private-key: "IBZHXF1Zbm6c57O0koC6mr+JxaGW7EPoF+z/fRbKHX8="
-    server: 188.114.98.101
-    port: 923
+    server: 188.114.98.10
+    port: 1070
     public-key: "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
     allowed-ips: ["0.0.0.0/0", "::/0"]
     reserved: [111, 20, 196]
